@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Run a Local Listings Management Cleanup Campaign in 2026: A 7-Step Plan With Timelines
+title: How to Run a Local Listings Management Cleanup Campaign in 2026- A 7-Step Plan With Timelines
 ---
 
 A local listings cleanup campaign in 2026 should not begin by editing every directory you can find.

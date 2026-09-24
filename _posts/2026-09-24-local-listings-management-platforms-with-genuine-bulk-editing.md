@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 12 Local Listings Management Platforms With Genuine Bulk Editing in 2026 (Most Claim It, Few Deliver)
+date: 2026-09-24 00:00:00 +0530
 ---
 
 "Bulk editing" sounds straightforward until you actually try to update 500 locations.

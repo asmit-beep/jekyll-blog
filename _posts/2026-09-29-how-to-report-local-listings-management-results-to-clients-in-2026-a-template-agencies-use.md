@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Report Local Listings Management Results to Clients in 2026: A Template Agencies Use
+title: How to Report Local Listings Management Results to Clients in 2026 - A Template Agencies Use
 ---
 
 A good local listings management report in 2026 should tell the client three things quickly:
